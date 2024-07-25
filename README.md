@@ -1,11 +1,11 @@
-# AASB
 # AUTOMATED ATTENDANCE SYSTEM
 
-TEAM : INCOGNITO
-TEAM MEMBERS : 
-20PC16 - HARISH NARAYAN B
-20PC13 - GURU PRASANNA V
-20PC37 - VETRIVEL M D
+#### TEAM : INCOGNITO
+#### TEAM MEMBERS : 
+#### 20PC13 - GURU PRASANNA V
+#### 20PC16 - HARISH NARAYAN B
+#### 20PC22 - NAVIN KRISHNA T
+#### 20PC37 - VETRIVEL M D
 
 NOTE : Two repositories are used for the project. One for the frontend and another for the backend. Their links are given below.<br>
 FRONTEND : https://github.com/Vetrivel-Hari/Automatic-Attendance-System-Frontend-.git <br>
@@ -66,7 +66,12 @@ NOTE : To use the web application use the link given below <br>
 LINK : https://aas-vetrivel-hari.vercel.app/ <br>
 MongoDB is hosted using MongoDB Atlas. <br>
 
-
+### SCREENSHOTS OF DATABASE
+<img src="img1.png"/>
+<img src="img2.png"/>
+<img src="img3.png"/>
+<img src="img4.png"/>
+<img src="img5.png"/>
 
 ### FUTURE UPDATES
 Dedicated web app for faculty, so that any classroom or attendance changes can be recorded manually.
